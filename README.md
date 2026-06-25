@@ -13,7 +13,9 @@
 
 <img src="images/Wellenkraft_2.jpg" width="900">
 *Figure 1 – The RTAL WELLENKRAFT in its original 2009 working environment*
-<img src="images/Front.jpg" width="900">
+
+
+<img src="images/Wellenkraft_Front.jpg" width="900">
 *Figure 2 – The RTAL WELLENKRAFT Frontview*
 
 ------------------------------------------------------------------------
@@ -79,8 +81,6 @@ deterministic behaviour, interrupt latency and peripheral architecture.
 My work at the Technical University of Dortmund also provided access to
 professional development tools and laboratory equipment.
 
-📷 *Insert processor board photograph.*
-
 ------------------------------------------------------------------------
 
 ## Why Assembly Language?
@@ -114,7 +114,9 @@ Processor B: - Voices 5--8
 The result is true eight-voice polyphony without sacrificing synthesis
 quality.
 
-📷 *Insert both processor boards.*
+<img src="images/8051_Modul_1.jpg" width="900">
+<img src="images/8051_Modul_2.jpg" width="900">
+<img src="images/8051_Modul_2_mit_FV-1_Modul.jpg" width="900">
 
 ------------------------------------------------------------------------
 
@@ -128,13 +130,11 @@ processors remain focused on deterministic synthesis.
 Several effect programs were written specifically for WELLENKRAFT 8051
 and stored in external EEPROM devices.
 
-📷 *Insert FV‑1 board.*
+<img src="images/FV-1_Modul.jpg" width="900">
 
 ------------------------------------------------------------------------
 
 # System Architecture
-
-📊 Insert a professional block diagram here showing:
 
 -   Ctrlr Editor
 -   MIDI
@@ -165,7 +165,7 @@ Suggested order:
 
 # Ctrlr Editor
 
-📷 Include screenshots of:
+<img src="images/ctrlr_GUI.jpg" width="900">
 
 -   Main editor
 -   Oscillator page
