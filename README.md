@@ -1,6 +1,6 @@
 # RTAL WELLENKRAFT 8051
 
-# README --- Engineering Heritage Collection
+# Engineering Heritage Collection
 
 > **A complete digital synthesizer engineered from the ground up.**
 >
