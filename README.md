@@ -11,9 +11,11 @@
 
 ## The RTAL WELLENKRAFT in its original working environment
 
+<p align="left">
 <img src="images/Wellenkraft_2.jpg" width="900">
 *Figure 1 – The RTAL WELLENKRAFT in its original 2009 working environment*
 </p>
+<p align="left">
 <img src="images/Wellenkraft_Front.jpg" width="900">
 *Figure 2 – The RTAL WELLENKRAFT Frontview*
 </p>
