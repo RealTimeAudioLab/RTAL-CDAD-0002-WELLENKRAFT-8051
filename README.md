@@ -9,7 +9,7 @@
 
 ------------------------------------------------------------------------
 
-## The RTAL WELLENKRAFT in its original working environment
+## The RTAL WELLENKRAFT in its original working environment (together with the first Mutable Instruments SHRUTHI in a 19-inch rackmount chassis from the lab) 
 
 <p align="left">
 <img src="images/Wellenkraft_2.jpg" width="900">
